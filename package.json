@@ -1,0 +1,27 @@
+{
+  "name": "fake-file-loader",
+  "version": "1.0.0",
+  "description": "Like file-loader, but doesn't emit files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dferber90/fake-file-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "file-loader"
+  ],
+  "author": "Dominik Ferber <dominik.ferber+npm@gmail.com> (http://dferber.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dferber90/fake-file-loader/issues"
+  },
+  "homepage": "https://github.com/dferber90/fake-file-loader#readme",
+  "dependencies": {
+    "loader-utils": "0.2.12"
+  }
+}
