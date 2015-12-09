@@ -1,3 +1,11 @@
+/*
+  This file was taken from webpack and modified.
+  https://github.com/webpack/url-loader/blob/master/index.js
+
+  Original Author: Tobias Koppers @sokra
+  Modifications: Dominik Ferber @dferber90
+ */
+
 var loaderUtils = require("loader-utils");
 
 module.exports = function(content) {
