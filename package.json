@@ -1,6 +1,6 @@
 {
   "name": "fake-file-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like file-loader, but doesn't emit files",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/dferber90/fake-file-loader#readme",
   "dependencies": {
-    "loader-utils": "0.2.12"
+    "loader-utils": "0.2.13"
   }
 }
